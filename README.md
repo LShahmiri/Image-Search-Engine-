@@ -1,4 +1,5 @@
 ### Image-Based Search Engine using CNN and KNN
+<img width="1879" height="871" alt="image" src="https://github.com/user-attachments/assets/afe8bf6e-af19-4ea6-a145-ac54041c3c4e" />
 
 This project is a **Content-Based Image Retrieval (CBIR)** system that enables users to find visually similar products using image inputs instead of keyword searches. It was developed in response to a real-world business problem where customers were struggling to discover competitively priced items on a retail website, often missing cheaper alternatives that the store actually stocked.
 
